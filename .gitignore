@@ -1,0 +1,12 @@
+# Planilhas reais e credenciais nunca entram no repositório
+data/
+*.xlsx
+*.xls
+*.csv
+*.pkl
+*.json
+.streamlit/secrets.toml
+
+__pycache__/
+.venv/
+venv/
